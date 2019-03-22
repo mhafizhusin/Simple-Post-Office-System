@@ -1,0 +1,5 @@
+  280mm*200mm	| 500g       | Envelop            |RM 7.31
+  380mm*320mm	|  1kg       | Envelop            |RM 10.49
+  3400mm*250mm	|  2kg       | Box                |RM 13.78
+  340mm*250mm	|  5kg       | Box                |RM 21.20
+  380mm*320mm	| 10kg       | Box                |RM 31.80
